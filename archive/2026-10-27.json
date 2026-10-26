@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at": "2026-10-27T00:05:44.579533+01:00",
+  "updated_at": "2026-10-27T00:07:08.260142+01:00",
   "timezone": "Europe/Prague",
   "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
   "articles": [
@@ -11,7 +11,7 @@
       "source": "Nintendo Life",
       "category": "Gaming",
       "published": "2026-10-26T18:00:00+00:00",
-      "score": 30.726070865763887
+      "score": 30.720259712361113
     },
     {
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
@@ -20,7 +20,7 @@
       "source": "TechCrunch",
       "category": "Technologie",
       "published": "2026-10-25T16:57:32+00:00",
-      "score": 22.46579308798611
+      "score": 22.459981934583332
     },
     {
       "title": "Meta announces $95 billion stock offering to fund AI expansion",
@@ -29,7 +29,7 @@
       "source": "CNBC",
       "category": "Investice",
       "published": "2026-10-26T14:05:36+00:00",
-      "score": 22.74940419909722
+      "score": 22.743593045694446
     },
     {
       "title": "'Maxxing' selected as Dictionary.com word of the year",
@@ -38,7 +38,7 @@
       "source": "BBC World",
       "category": "Česko a svět",
       "published": "2026-10-26T21:31:53+00:00",
-      "score": 11.608918087986112
+      "score": 11.603106934583334
     },
     {
       "title": "A whole host of Steam PC games can now run locally on a jailbroken PlayStation 5, including Portal, Left 4 Dead 2, and many more",
@@ -47,7 +47,7 @@
       "source": "PC Gamer",
       "category": "Gaming",
       "published": "2026-10-26T16:56:44+00:00",
-      "score": 30.462459754652777
+      "score": 30.456648601250002
     }
   ],
   "source_count": 9,
