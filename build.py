@@ -19,6 +19,20 @@ def clean(s):
 def safe_url(u):
     return u if urlparse(u).scheme in ('https','http') else '#'
 
+def article_image(entry):
+    candidates = []
+    for media in entry.get('media_content', []) + entry.get('media_thumbnail', []):
+        if media.get('medium') in (None, 'image'):
+            candidates.append(media.get('url', ''))
+    for enclosure in entry.get('enclosures', []):
+        if enclosure.get('type', '').startswith('image/'):
+            candidates.append(enclosure.get('href', ''))
+    for candidate in candidates:
+        if safe_url(candidate) != '#':
+            return candidate
+    return None
+
+
 def fetch(source):
     try:
         response=requests.get(source['url'],timeout=15,headers={'User-Agent':'MorningBriefRSS/1.0 (+personal news reader)'})
@@ -41,7 +55,7 @@ def fetch(source):
             if category=='Gaming' and any(x in text for x in ['minecraft','nintendo','switch','playstation']):score+=8
             if category=='Technologie' and any(x in text for x in ['openai','android',' ai ','artificial intelligence']):score+=6
             if category=='Investice' and any(x in text for x in ['bitcoin','etf','stock','nasdaq']):score+=5
-            out.append(dict(title=title,summary=summary,link=link,source=source['name'],category=category,published=published.isoformat() if published else None,score=score))
+            out.append(dict(image=article_image(entry),title=title,summary=summary,link=link,source=source['name'],category=category,published=published.isoformat() if published else None,score=score))
         return out
     except Exception as exc:
         print(f"Feed unavailable: {source['name']}: {exc}")

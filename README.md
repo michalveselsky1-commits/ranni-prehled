@@ -19,3 +19,6 @@ Web každý den přibližně v 8:00 Europe/Prague načítá veřejné RSS zdroje
 
 ## Limity
 Některé RSS zdroje mohou změnit adresu nebo blokovat načítání. Web ukazuje jen články dostupné v RSS (až 72 hodin staré). Pokud není dostupný žádný zdroj, existující vydání zůstane zachováno. Výstup je veřejný. Stránka není napojena na ChatGPT ani na automatické notifikace.
+
+## Obrázky
+Každá zpráva zobrazuje obrázek z RSS (media content, thumbnail nebo obrázková příloha), pokud ho zdroj nabízí. Jinak se zobrazí lokální tematická SVG ilustrace pro danou kategorii; totéž platí při chybě načtení obrázku. Ilustrace nejsou fotografiemi popisované události.
