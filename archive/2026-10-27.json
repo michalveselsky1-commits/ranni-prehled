@@ -1,55 +1,60 @@
 {
   "date": "2026-10-27",
-  "updated_at": "2026-10-27T00:07:08.260142+01:00",
+  "updated_at": "2026-10-27T00:33:59.190986+01:00",
   "timezone": "Europe/Prague",
   "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
   "articles": [
     {
+      "image": "https://images.nintendolife.com/0f728468335e1/large.jpg",
       "title": "Community: 42 Switch Games We Missed, As Recommended By You",
       "summary": "Part 13 - Unlucky for none. And we're back for the next instalment of our 'Games We Missed' series , where Nintendo Life readers nominate great Switch games we weren't able to cover with a review. For Part 13(!) of this twice-yearly series, we've got a whopping 42 games to consider for your wishlist spanning Switches 1",
       "link": "https://www.nintendolife.com/guides/community-42-switch-games-we-missed-as-recommended-by-you",
       "source": "Nintendo Life",
       "category": "Gaming",
       "published": "2026-10-26T18:00:00+00:00",
-      "score": 30.720259712361113
+      "score": 30.60838951486111
     },
     {
+      "image": null,
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
       "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
       "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "source": "TechCrunch",
       "category": "Technologie",
       "published": "2026-10-25T16:57:32+00:00",
-      "score": 22.459981934583332
+      "score": 22.348111737083332
     },
     {
+      "image": null,
       "title": "Meta announces $95 billion stock offering to fund AI expansion",
       "summary": "Meta plans to raise $95 billion to fund AI infrastructure and superintelligence, as Nvidia, AMD and Broadcom eye up to $5 billion in shares.",
       "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
       "source": "CNBC",
       "category": "Investice",
       "published": "2026-10-26T14:05:36+00:00",
-      "score": 22.743593045694446
+      "score": 22.631722848194443
     },
     {
-      "title": "'Maxxing' selected as Dictionary.com word of the year",
-      "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/ZTA3ZjFlODIyZDc3MDMzM5wHNq1IQvii_DaSQvjRAuJak379u6r0ziW1oTuCW_ytUfh92lw3bxWqkHE3ZB9r3D9dj4DenZOkw2knb6fBNcxE6GyuNU2rQEo7yh2ezKEnDv68M9Hbqw4K4k-disNmdu1aMJSf3zVHgb0ulZKddk3JCoizzg0pay9mdnewqkVy.JPG?width=360",
+      "title": "Jordánsko udeřilo v Sýrii, Damašek v reakci uzavřel hraniční přechod Nasíb",
+      "summary": "Syrské úřady tvrdí, že při jordánských úderech na syrském území zemřelo pět civilistů. Jordánská armáda je provedla v souvislosti s pátečním útokem na kostel, při kterém zahynulo devět lidí, píše agentura Reuters. Podle jordánské armády údery zasáhly objekty teroristických organizací. Dříve úřady v Ammánu oznámily zadr",
+      "link": "https://ct24.ceskatelevize.cz/clanek/svet/jordansko-uderilo-v-syrii-damasek-v-reakci-uzavrel-hranicni-prechod-nasib-379039",
+      "source": "ČT24",
       "category": "Česko a svět",
-      "published": "2026-10-26T21:31:53+00:00",
-      "score": 11.603106934583334
+      "published": "2026-10-26T23:08:01+00:00",
+      "score": 11.89179229263889
     },
     {
+      "image": "https://cdn.mos.cms.futurecdn.net/ZknvaoNEWA5JE3dS92VY77-1920-80.jpg",
       "title": "A whole host of Steam PC games can now run locally on a jailbroken PlayStation 5, including Portal, Left 4 Dead 2, and many more",
       "summary": "I never thought I'd see the day.",
       "link": "https://www.pcgamer.com/hardware/a-whole-host-of-steam-pc-games-can-now-run-locally-on-a-jailbroken-playstation-5-including-portal-left-4-dead-2-and-many-more/",
       "source": "PC Gamer",
       "category": "Gaming",
       "published": "2026-10-26T16:56:44+00:00",
-      "score": 30.456648601250002
+      "score": 30.34477840375
     }
   ],
   "source_count": 9,
-  "feed_items": 189
+  "feed_items": 187
 }
