@@ -1,0 +1,11 @@
+[
+ {"name":"ČT24","category":"Česko a svět","url":"https://ct24.ceskatelevize.cz/rss.xml"},
+ {"name":"BBC World","category":"Česko a svět","url":"https://feeds.bbci.co.uk/news/world/rss.xml"},
+ {"name":"The Verge","category":"Technologie","url":"https://www.theverge.com/rss/index.xml"},
+ {"name":"TechCrunch","category":"Technologie","url":"https://techcrunch.com/feed/"},
+ {"name":"Nintendo Life","category":"Gaming","url":"https://www.nintendolife.com/feeds/latest"},
+ {"name":"Eurogamer","category":"Gaming","url":"https://www.eurogamer.net/feed"},
+ {"name":"PC Gamer","category":"Gaming","url":"https://www.pcgamer.com/rss/"},
+ {"name":"CNBC","category":"Investice","url":"https://www.cnbc.com/id/100003114/device/rss/rss.html"},
+ {"name":"BBC Business","category":"Investice","url":"https://feeds.bbci.co.uk/news/business/rss.xml"}
+]
