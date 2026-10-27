@@ -1,60 +1,60 @@
 {
   "date": "2026-10-27",
-  "updated_at": "2026-10-27T08:40:51.067972+01:00",
+  "updated_at": "2026-10-27T22:25:32.579132+01:00",
   "timezone": "Europe/Prague",
   "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
   "articles": [
     {
-      "image": "https://images.nintendolife.com/b5623332e96f3/large.jpg",
-      "title": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles",
-      "summary": "Update: Avenging Spirit, Mole Mania & Revenge of the 'Gator are now available. : Following a Switch Online update last week adding three GBA titles , Nintendo has today announced it's adding three more Game Boy games to the subscription service next week. Read the full article on nintendolife.com",
-      "link": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
-      "source": "Nintendo Life",
+      "image": "https://assetsio.gnwcdn.com/Nintendo-Indie-World-logo.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "title": "Nintendo is hosting a new Indie World showcase tomorrow, featuring games for Switch and Switch 2, and it'll be 15 minutes long",
+      "summary": "It's been a bumper year for Nintendo, with the likes of and Pokémon Pokopia kicking off 2026 in a very strong way for the company, and more recently with games like Fire Emblem and Nintendo Switch Sports Resort picking up strong scores for the platform holder. Read more",
+      "link": "https://www.eurogamer.net/nintendo-new-indie-world-showcase-october-28",
+      "source": "Eurogamer",
       "category": "Gaming",
-      "published": "2026-10-27T01:55:00+00:00",
-      "score": 30.558953613055557
+      "published": "2026-10-27T14:06:39+00:00",
+      "score": 34.17127922694444
     },
     {
       "image": null,
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "source": "TechCrunch",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "source": "The Verge",
       "category": "Technologie",
-      "published": "2026-10-27T02:00:00+00:00",
-      "score": 24.57978694638889
+      "published": "2026-10-27T20:48:58+00:00",
+      "score": 25.847598671388887
     },
     {
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b0/live/8d5e0a00-d1cc-11f1-837e-832a94a7445c.jpg",
-      "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-      "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "image": null,
+      "title": "Margin debt growth slows sharply as stock market warning signs build",
+      "summary": "Slowing margin-debt growth could signal growing risks for stocks.",
+      "link": "https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html",
+      "source": "CNBC",
       "category": "Investice",
-      "published": "2026-10-27T06:33:11+00:00",
-      "score": 20.71805083527778
+      "published": "2026-10-27T18:53:18+00:00",
+      "score": 24.365654226944443
     },
     {
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
-      "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
-      "summary": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\".",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg",
+      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+      "summary": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "Česko a svět",
-      "published": "2026-10-27T07:15:08+00:00",
-      "score": 11.892842501944445
+      "published": "2026-10-27T21:12:39+00:00",
+      "score": 11.946279226944444
     },
     {
-      "image": "https://images.nintendolife.com/0f728468335e1/large.jpg",
-      "title": "Community: 42 Switch Games We Missed, As Recommended By You",
-      "summary": "Part 13 - Unlucky for none. And we're back for the next instalment of our 'Games We Missed' series , where Nintendo Life readers nominate great Switch games we weren't able to cover with a review. For Part 13(!) of this twice-yearly series, we've got a whopping 42 games to consider for your wishlist spanning Switches 1",
-      "link": "https://www.nintendolife.com/guides/community-42-switch-games-we-missed-as-recommended-by-you",
+      "image": "https://images.nintendolife.com/f1ce227b938df/large.jpg",
+      "title": "Poll: What Review Score Would You Give Nintendo Switch Sports Resort?",
+      "summary": "He shoots, he scores. Nintendo Switch Sports Resort is here. With 12 different sports, a surprising amount of single-player content and vastly improved character customisation, the latest series entry is a welcome improvement over its predecessor, and one that we can see taking pride of place in our game night line-up ",
+      "link": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-nintendo-switch-sports-resort",
       "source": "Nintendo Life",
       "category": "Gaming",
-      "published": "2026-10-26T18:00:00+00:00",
-      "score": 28.57978694638889
+      "published": "2026-10-27T16:00:00+00:00",
+      "score": 30.643570893611113
     }
   ],
   "source_count": 9,
-  "feed_items": 192
+  "feed_items": 195
 }
