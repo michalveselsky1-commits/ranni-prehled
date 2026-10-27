@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at": "2026-10-27T22:25:32.579132+01:00",
+  "updated_at": "2026-10-27T22:26:12.753719+01:00",
   "timezone": "Europe/Prague",
   "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
   "articles": [
@@ -12,7 +12,7 @@
       "source": "Eurogamer",
       "category": "Gaming",
       "published": "2026-10-27T14:06:39+00:00",
-      "score": 34.17127922694444
+      "score": 34.168489325069444
     },
     {
       "image": null,
@@ -22,7 +22,7 @@
       "source": "The Verge",
       "category": "Technologie",
       "published": "2026-10-27T20:48:58+00:00",
-      "score": 25.847598671388887
+      "score": 25.84480876951389
     },
     {
       "image": null,
@@ -32,7 +32,7 @@
       "source": "CNBC",
       "category": "Investice",
       "published": "2026-10-27T18:53:18+00:00",
-      "score": 24.365654226944443
+      "score": 24.362864325069445
     },
     {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg",
@@ -42,7 +42,7 @@
       "source": "BBC World",
       "category": "Česko a svět",
       "published": "2026-10-27T21:12:39+00:00",
-      "score": 11.946279226944444
+      "score": 11.943489325069445
     },
     {
       "image": "https://images.nintendolife.com/f1ce227b938df/large.jpg",
@@ -52,7 +52,7 @@
       "source": "Nintendo Life",
       "category": "Gaming",
       "published": "2026-10-27T16:00:00+00:00",
-      "score": 30.643570893611113
+      "score": 30.64078099173611
     }
   ],
   "source_count": 9,
