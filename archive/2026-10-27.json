@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated_at": "2026-10-27T01:24:18.547991+01:00",
+  "updated_at": "2026-10-27T01:25:27.521902+01:00",
   "timezone": "Europe/Prague",
   "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
   "articles": [
@@ -12,7 +12,7 @@
       "source": "Nintendo Life",
       "category": "Gaming",
       "published": "2026-10-26T18:00:00+00:00",
-      "score": 30.398711945069444
+      "score": 30.393922090138886
     },
     {
       "image": null,
@@ -22,7 +22,7 @@
       "source": "The Verge",
       "category": "Technologie",
       "published": "2026-10-26T23:34:58+00:00",
-      "score": 25.794406389513888
+      "score": 25.78961653458333
     },
     {
       "image": null,
@@ -32,7 +32,7 @@
       "source": "CNBC",
       "category": "Investice",
       "published": "2026-10-26T14:05:36+00:00",
-      "score": 22.422045278402777
+      "score": 22.41725542347222
     },
     {
       "image": "https://fs2-ct24.ceskatelevize.cz/image/ZTA3ZjFlODIyZDc3MDMzM5wHNq1IQvii_DaSQvjRAuJak379u6r0ziW1oTuCW_ytUfh92lw3bxWqkHE3ZB9r3D9dj4DenZOkw2knb6fBNcxE6GyuNU2rQEo7yh2ezKEnDv68M9Hbqw4K4k-disNmdu1aMJSf3zVHgb0ulZKddk3JCoizzg0pay9mdnewqkVy.JPG?width=360",
@@ -42,7 +42,7 @@
       "source": "ČT24",
       "category": "Česko a svět",
       "published": "2026-10-26T23:08:01+00:00",
-      "score": 11.682114722847222
+      "score": 11.677324867916667
     },
     {
       "image": "https://cdn.mos.cms.futurecdn.net/ZknvaoNEWA5JE3dS92VY77-1920-80.jpg",
@@ -52,7 +52,7 @@
       "source": "PC Gamer",
       "category": "Gaming",
       "published": "2026-10-26T16:56:44+00:00",
-      "score": 30.135100833958333
+      "score": 30.130310979027776
     }
   ],
   "source_count": 9,
