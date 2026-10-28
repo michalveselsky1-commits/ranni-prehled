@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-28",
+  "updated_at": "2026-10-28T08:50:16.544134+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/03591e8b6cfa3/large.jpg",
+      "title": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
+      "summary": "Update: Pokémon Pokopia is also up for Ultimate GOTY. : We're getting closer to that time of year when a lot of game awards are announced and it seems Nintendo is already up for some nominations. Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-10-28T07:00:00+00:00",
+      "score": 31.79051776847222
+    },
+    {
+      "image": null,
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-10-27T20:48:58+00:00",
+      "score": 23.244545546250002
+    },
+    {
+      "image": null,
+      "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+      "summary": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
+      "link": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-10-28T00:14:24+00:00",
+      "score": 23.100517768472223
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/YjcwNDllN2U4Nzc4NTJiNHMvyeRsLsyOz3bvUUuNkJYtGIO4Vg3a9BYo1u2dIjw-xow7qcFIn9nksXXPfGCG6tSmOgL7oQg04HdjlUAfEL3mwQjEgwkNrRa8d2R4ZRBZ7uaN36oRWuKMeRBCAu2yJ_AQ-XjOg1THQMq0KqW-IjBZ4BPUICsjxTmxw8dZVp2m.jpg?width=360",
+      "title": "Pivovary pod tlakem přeskupují své kapacity a opouští tradiční místa",
+      "summary": "Klesající spotřeba a rostoucí náklady, hlavně za energie či obalové materiály, nutí pivovary k úsporným krokům a opouštění místní tradice. Ve Velkém Březně na Ústecku, kde pivovar fungoval od osmnáctého století, se přestane vařit značka Březňák. Výroba se přesune do jiných podniků. Dopadne to na zhruba dvacítku zaměstn",
+      "link": "https://ct24.ceskatelevize.cz/clanek/ekonomika/pivovary-pod-tlakem-preskupuji-sve-kapacity-a-opousti-tradicni-mista-379074",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-10-28T07:00:00+00:00",
+      "score": 11.790517768472222
+    },
+    {
+      "image": "https://assetsio.gnwcdn.com/Nintendo-Indie-World-logo.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "title": "Nintendo is hosting a new Indie World showcase tomorrow, featuring games for Switch and Switch 2, and it'll be 15 minutes long",
+      "summary": "It's been a bumper year for Nintendo, with the likes of and Pokémon Pokopia kicking off 2026 in a very strong way for the company, and more recently with games like Fire Emblem and Nintendo Switch Sports Resort picking up strong scores for the platform holder. Read more",
+      "link": "https://www.eurogamer.net/nintendo-new-indie-world-showcase-october-28",
+      "source": "Eurogamer",
+      "category": "Gaming",
+      "published": "2026-10-27T14:06:39+00:00",
+      "score": 31.568226101805557
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 193
+}
