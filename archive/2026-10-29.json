@@ -1,60 +1,60 @@
 {
   "date": "2026-10-29",
-  "updated_at": "2026-10-29T08:53:29.980516+01:00",
+  "updated_at": "2026-10-29T16:15:37.135476+01:00",
   "timezone": "Europe/Prague",
   "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
   "articles": [
     {
-      "image": "https://assetsio.gnwcdn.com/palworld-grizzbolt-wielding-machine-gun-minigun.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "title": "Palworld studio still hopes to release the game on Switch 2 one day, despite being in a legal battle with Nintendo",
-      "summary": "Palworld , the survival crafting game featuring adorable animals seemingly inspired by Pokémon, has been embroiled in a legal battle with Nintendo over what the company alleges is patent infringement . But although the lawsuit is ongoing, Palworld developer Pocketpair still says it's keen to bring the game to Switch 2 ",
-      "link": "https://www.eurogamer.net/palworld-switch-2-port-legal-battle-nintendo",
-      "source": "Eurogamer",
-      "category": "Gaming",
-      "published": "2026-10-28T14:03:01+00:00",
-      "score": 31.539654130833334
-    },
-    {
-      "image": null,
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "source": "TechCrunch",
-      "category": "Technologie",
-      "published": "2026-10-28T21:48:37+00:00",
-      "score": 23.47965413083333
-    },
-    {
-      "image": null,
-      "title": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
-      "summary": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory.",
-      "link": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
-      "source": "CNBC",
-      "category": "Investice",
-      "published": "2026-10-29T00:32:02+00:00",
-      "score": 23.160556908611113
-    },
-    {
-      "image": "https://fs2-ct24.ceskatelevize.cz/image/ZjEyMmVjYjcyYTFjYzRmY2DOotBMSVYk3obpsM22_V-MBnwr9mIyypTDDxLG2dY_Wf1DMWZQjz8OJ2hhtCuEkMv5oC781xgp4lc1Np-Vl9F8tLidkXF6pOGeWYd1AJnM9iidc614Bs8yrfABLN4VwMKviTg35ZgLfAHr-dc-Zkt0bnWZav4sBXAaMYzivQYp.jpg?width=360",
-      "title": "O víkendu se v Česku ochladí, na horách může sněžit",
-      "summary": "O víkendu se v Česku mírně ochladí a v nejvyšších polohách na horách může sněžit. Koncem týdne bude nejvýše deset stupňů Celsia. Vyplývá to z předpovědi Českého hydrometeorologického ústavu (ČHMÚ). Obloha bude převážně zatažená a vyskytne se občasný déšť.",
-      "link": "https://ct24.ceskatelevize.cz/clanek/pocasi/o-vikendu-se-v-cesku-ochladi-na-horach-muze-snezit-379095",
-      "source": "ČT24",
-      "category": "Česko a svět",
-      "published": "2026-10-29T06:50:33+00:00",
-      "score": 11.73770968638889
-    },
-    {
-      "image": "https://images.nintendolife.com/b0ca203579730/large.jpg",
-      "title": "Palworld Dev Open To Switch 2 Release, If There's Ever An \"Opportunity\"",
-      "summary": "The Pocketpair team thinks it's a \"really amazing platform\". Despite Pocketpair's ongoing legal battle with Nintendo, the developer is apparently open to bringing its monster-taming survival game Palworld to Switch 2 one day. In a new interview with VGC recently, Pocketpair CEO Takuru Mizobe has praised the Switch 2, c",
-      "link": "https://www.nintendolife.com/news/2026/10/palworld-dev-open-to-switch-2-release-if-theres-ever-an-opportunity",
+      "image": "https://images.nintendolife.com/e6454acd2cdf3/large.jpg",
+      "title": "Nintendo Download: 29th October (North America)",
+      "summary": "Hello Kitty! Darkest Dungeon! Peak! The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop. As always, be sure to drop a vote in our poll and comment down below with your potential picks for the week. Enjoy! Switch 2 eShop - Highlights Minecraft for Nintendo S",
+      "link": "https://www.nintendolife.com/news/2026/10/nintendo-download-29th-october-north-america",
       "source": "Nintendo Life",
       "category": "Gaming",
-      "published": "2026-10-29T03:30:00+00:00",
-      "score": 30.90208468638889
+      "published": "2026-10-29T14:30:00+00:00",
+      "score": 35.8099211475
+    },
+    {
+      "image": null,
+      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+      "summary": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain, Coursera. It's platform promises to help IT easily control enterprise agents",
+      "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-10-29T15:00:00+00:00",
+      "score": 25.9349211475
+    },
+    {
+      "image": null,
+      "title": "ServiceNow shares plunge 24% after earnings revive AI disruption fears",
+      "summary": "ServiceNow's stock headed its worst day ever on underwhelming third-quarter results.",
+      "link": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-10-29T14:58:03+00:00",
+      "score": 24.9267961475
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Česko a svět",
+      "published": "2026-10-29T15:15:05+00:00",
+      "score": 11.997768369722221
+    },
+    {
+      "image": "https://images.nintendolife.com/2db969f6c785f/large.jpg",
+      "title": "Pokémon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live",
+      "summary": "Spewpa Duper. The catchily-titled ' Pokémon Legends: Z-A - Nintendo Switch 2 Edition + Mega Dimension ' releases today, and to mark the occasion, The Pokémon Company has launched a new Mystery Gift distribution in the game. This one is all about Spewpa and its multi-coloured evolution. Those who redeem the Mystery Gift",
+      "link": "https://www.nintendolife.com/news/2026/10/pokemon-legends-z-as-latest-mystery-gift-distribution-is-now-live",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-10-29T10:45:00+00:00",
+      "score": 34.8724211475
     }
   ],
   "source_count": 9,
-  "feed_items": 193
+  "feed_items": 195
 }
