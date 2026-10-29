@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-29",
+  "updated_at": "2026-10-29T08:44:56.001164+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://assetsio.gnwcdn.com/palworld-grizzbolt-wielding-machine-gun-minigun.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "title": "Palworld studio still hopes to release the game on Switch 2 one day, despite being in a legal battle with Nintendo",
+      "summary": "Palworld , the survival crafting game featuring adorable animals seemingly inspired by Pokémon, has been embroiled in a legal battle with Nintendo over what the company alleges is patent infringement . But although the lawsuit is ongoing, Palworld developer Pocketpair still says it's keen to bring the game to Switch 2 ",
+      "link": "https://www.eurogamer.net/palworld-switch-2-port-legal-battle-nintendo",
+      "source": "Eurogamer",
+      "category": "Gaming",
+      "published": "2026-10-28T14:03:01+00:00",
+      "score": 31.57534714138889
+    },
+    {
+      "image": null,
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-10-28T21:48:37+00:00",
+      "score": 23.515347141388887
+    },
+    {
+      "image": null,
+      "title": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
+      "summary": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-10-29T00:32:02+00:00",
+      "score": 23.196249919166668
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/ZjEyMmVjYjcyYTFjYzRmY2DOotBMSVYk3obpsM22_V-MBnwr9mIyypTDDxLG2dY_Wf1DMWZQjz8OJ2hhtCuEkMv5oC781xgp4lc1Np-Vl9F8tLidkXF6pOGeWYd1AJnM9iidc614Bs8yrfABLN4VwMKviTg35ZgLfAHr-dc-Zkt0bnWZav4sBXAaMYzivQYp.jpg?width=360",
+      "title": "O víkendu se v Česku ochladí, na horách může sněžit",
+      "summary": "O víkendu se v Česku mírně ochladí a v nejvyšších polohách na horách může sněžit. Koncem týdne bude nejvýše deset stupňů Celsia. Vyplývá to z předpovědi Českého hydrometeorologického ústavu (ČHMÚ). Obloha bude převážně zatažená a vyskytne se občasný déšť.",
+      "link": "https://ct24.ceskatelevize.cz/clanek/pocasi/o-vikendu-se-v-cesku-ochladi-na-horach-muze-snezit-379095",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-10-29T06:50:33+00:00",
+      "score": 11.773402696944444
+    },
+    {
+      "image": "https://images.nintendolife.com/b0ca203579730/large.jpg",
+      "title": "Palworld Dev Open To Switch 2 Release, If There's Ever An \"Opportunity\"",
+      "summary": "The Pocketpair team thinks it's a \"really amazing platform\". Despite Pocketpair's ongoing legal battle with Nintendo, the developer is apparently open to bringing its monster-taming survival game Palworld to Switch 2 one day. In a new interview with VGC recently, Pocketpair CEO Takuru Mizobe has praised the Switch 2, c",
+      "link": "https://www.nintendolife.com/news/2026/10/palworld-dev-open-to-switch-2-release-if-theres-ever-an-opportunity",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-10-29T03:30:00+00:00",
+      "score": 30.937777696944444
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 195
+}
