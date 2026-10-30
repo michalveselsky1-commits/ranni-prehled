@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-30",
+  "updated_at": "2026-10-30T08:53:25.790310+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/e6454acd2cdf3/large.jpg",
+      "title": "Nintendo Download: 29th October (North America)",
+      "summary": "Hello Kitty! Darkest Dungeon! Peak! The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop. As always, be sure to drop a vote in our poll and comment down below with your potential picks for the week. Enjoy! Switch 2 eShop - Highlights Minecraft for Nintendo S",
+      "link": "https://www.nintendolife.com/news/2026/10/nintendo-download-29th-october-north-america",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-10-29T14:30:00+00:00",
+      "score": 31.652375672916666
+    },
+    {
+      "image": null,
+      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 million referrals on ",
+      "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-10-29T22:19:32+00:00",
+      "score": 23.608764561805557
+    },
+    {
+      "image": null,
+      "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+      "summary": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
+      "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-10-30T00:39:52+00:00",
+      "score": 23.193486784027776
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/Y2IwZGJhOWJiOGU5ZmEyZXBNN7wZDzEBF8F3xUu7elFPdwZj_-F-4rwgIIlrVji64fAJ0TXS2Dnz0UVpWLhmknqFp-wrEF5H-WR6ToODa6e2y7fitgl3khXj6NZKAkLpCHAbFbKNjlzGQn-cfNjCMLWKU4G2OtLotZjSIN0iuYdKAE3VdavwAB1myiF6_FPA.JPG?width=360",
+      "title": "„Největší krádež v historii kryptoměn.“ Hackeři zřejmě připravili Binance o 6,3 miliardy dolarů",
+      "summary": "Binance, největší kryptoměnová burza na světě, v noci na pátek informovala o „bezpečnostním incidentu“, při kterém měli hackeři ukrást 6,3 miliardy dolarů (zhruba 137 miliard korun). Napsaly o tom agentury Reuters a AP. Podle některých analytiků jde o největší krádež v historii kryptoměn, podle společnosti TRM Labs za ",
+      "link": "https://ct24.ceskatelevize.cz/clanek/svet/nejvetsi-kradez-v-historii-kryptomen-hackeri-zrejme-pripravili-binance-o-63-miliardy-dolaru-379129",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-10-30T06:46:13+00:00",
+      "score": 11.71994511736111
+    },
+    {
+      "image": "https://images.nintendolife.com/2db969f6c785f/large.jpg",
+      "title": "Pokémon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live",
+      "summary": "Spewpa Duper. The catchily-titled ' Pokémon Legends: Z-A - Nintendo Switch 2 Edition + Mega Dimension ' releases today, and to mark the occasion, The Pokémon Company has launched a new Mystery Gift distribution in the game. This one is all about Spewpa and its multi-coloured evolution. Those who redeem the Mystery Gift",
+      "link": "https://www.nintendolife.com/news/2026/10/pokemon-legends-z-as-latest-mystery-gift-distribution-is-now-live",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-10-29T10:45:00+00:00",
+      "score": 30.714875672916666
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 196
+}
