@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-31",
+  "updated_at": "2026-10-31T08:44:32.137648+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/230715b3edd9e/large.jpg",
+      "title": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026",
+      "summary": "Zelda, Pikmin, Stellar Blade and much more! November is an absolutely huge month for video games, and on the Nintendo front, the main spotlight is on The Legend of Zelda: Ocarina of Time . While this remake is probably the most anticipated Switch 2 title of the year, as you can see in our video above there are plenty o",
+      "link": "https://www.nintendolife.com/news/2026/10/video-11-exciting-new-games-coming-to-switch-1-and-2-in-november-2026",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-10-31T00:00:00+00:00",
+      "score": 30.064434885555556
+    },
+    {
+      "image": null,
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-10-30T20:26:10+00:00",
+      "score": 27.173462663333332
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Investice",
+      "published": "2026-10-30T20:34:46+00:00",
+      "score": 26.20929599666667
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/MDdjMGZjODJkNDdjZWE1NsUFjk_f5v-9LnsLp73wccB3uKAnonB-39aWvKeB8vj-9jXaAg_Hta-8ru7ATizLpHx_3rvFuV_Aa6GCtLDWG3yjVqGbG7BYD45MZ5agVhUoHzvZf0iK_vT3s6WoBvUkPU0DiccdbamUGBemr_ZNPfotU4qZrgdwcSdRlpppXmdm.jpg?width=360",
+      "title": "Cestující popsala, jak přežila ruský útok na vlakové nádraží v Dnipru",
+      "summary": "Ruská federace zaútočila na vlakové nádraží v Dnipru odpoledne 29. října. Při útoku zahynulo čtrnáct lidí a přes deset dalších utrpělo zranění. Cestující jménem Milana, která se v době úderu nacházela na nádraží, uvedla, že výbuch viděla z vagonu. Po ataku pomáhala ostatním cestujícím dostat se z vlaku.",
+      "link": "https://ct24.ceskatelevize.cz/clanek/svet/cestujici-popsala-jak-prezila-rusky-utok-na-vlakove-nadrazi-v-dnipru-379147",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-10-31T07:00:00+00:00",
+      "score": 11.814434885555556
+    },
+    {
+      "image": "https://images.nintendolife.com/04d11cd73d7e9/large.jpg",
+      "title": "Guide: Best Nintendo Switch 1 & 2 Horror Games",
+      "summary": "Pack a spare pair of underpants. It's that time of year again, and the perfect opportunity to REvisit and REfresh our horror list - now including Switch 2 games. Enjoy! Are you troubled by strange noises in the middle of the night? Do you experience feelings of dread in your basement or attic? Have you or your family e",
+      "link": "https://www.nintendolife.com/guides/best-nintendo-switch-1-and-2-horror-games",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-10-30T18:00:00+00:00",
+      "score": 28.564434885555556
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 202
+}
