@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-01",
+  "updated_at": "2026-11-01T08:51:04.623431+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/012d5ee2915fd/large.jpg",
+      "title": "Watch: Nintendo Treehouse Play Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
+      "summary": "A special broadcast timed in with Pikmin Day. Apart from its Pikmin Day Direct, Nintendo has announced it's hosting a special Treehouse broadcast for Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy . Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/11/watch-nintendo-treehouse-play-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-01T06:45:00+00:00",
+      "score": 27.724678928402778
+    },
+    {
+      "image": null,
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-10-31T16:12:55+00:00",
+      "score": 22.090998372847224
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Investice",
+      "published": "2026-10-30T20:34:46+00:00",
+      "score": 20.18204003951389
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Česko a svět",
+      "published": "2026-11-01T07:36:18+00:00",
+      "score": 11.938428928402777
+    },
+    {
+      "image": "https://images.nintendolife.com/230715b3edd9e/large.jpg",
+      "title": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026",
+      "summary": "Zelda, Pikmin, Stellar Blade and much more! November is an absolutely huge month for video games, and on the Nintendo front, the main spotlight is on The Legend of Zelda: Ocarina of Time . While this remake is probably the most anticipated Switch 2 title of the year, as you can see in our video above there are plenty o",
+      "link": "https://www.nintendolife.com/news/2026/10/video-11-exciting-new-games-coming-to-switch-1-and-2-in-november-2026",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-10-31T00:00:00+00:00",
+      "score": 24.037178928402778
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 198
+}
