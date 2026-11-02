@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-02",
+  "updated_at": "2026-11-02T09:20:53.380368+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/6a092d6cb4101/large.jpg",
+      "title": "HoYoverse Announces Cosy Galactic Life Sim 'Petit Planet' For Switch 2",
+      "summary": "The free-to-play title launches in 2027. HoYoverse, the company known for games like Genshin Impact and Zenless Zone Zero , has announced it's bringing the cosy free-to-play galactic life sim Petit Planet to the Switch 2 in 2027 . It shared news about the Nintendo version of the game at the end of its latest \"pre-launc",
+      "link": "https://www.nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-02T03:30:00+00:00",
+      "score": 30.787959696666668
+    },
+    {
+      "image": null,
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-11-01T21:55:23+00:00",
+      "score": 23.393723585555556
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Investice",
+      "published": "2026-10-30T20:34:46+00:00",
+      "score": 17.0
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
+      "title": "Ryanair may freeze workers' pay as fuel prices spike",
+      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Česko a svět",
+      "published": "2026-11-02T08:06:10+00:00",
+      "score": 11.938654141111112
+    },
+    {
+      "image": "https://assetsio.gnwcdn.com/cod-modern-warfare-4-captain-price.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "title": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
+      "summary": "Call of Duty: Modern Warfare 4 on Switch 2 has noticeably worse input lag than on PS5, which could put Nintendo players at a disadvantage in multiplayer. Read more",
+      "link": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
+      "source": "Eurogamer",
+      "category": "Gaming",
+      "published": "2026-11-01T17:27:29+00:00",
+      "score": 28.277473585555555
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 186
+}
