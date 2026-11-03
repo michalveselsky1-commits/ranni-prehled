@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-03",
+  "updated_at": "2026-11-03T09:05:44.892846+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/b5734a47a18ea/large.jpg",
+      "title": "Round Up: The Reviews Are In For Stellar Blade's Switch 2 Port",
+      "summary": "Is it a stellar port? It's all about Link this week, but there is another notable release arriving for the Switch 2 on the same day. It's Shift Up's action game, Stellar Blade . We've already taken a look at the port here on Nintendo Life, and despite some drawbacks, Eve's outing stands tall on the hybrid platform. Her",
+      "link": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-stellar-blades-switch-2-port",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-03T05:30:00+00:00",
+      "score": 31.351049107916666
+    },
+    {
+      "image": null,
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or sel",
+      "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-11-02T20:37:49+00:00",
+      "score": 27.13361855236111
+    },
+    {
+      "image": null,
+      "title": "Stock market after midterm elections: What S&P 500 history shows",
+      "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
+      "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-02T23:13:34+00:00",
+      "score": 22.782576885694446
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/69114010-d75b-11f1-8f6b-d71817972456.jpg",
+      "title": "Australia's social media ban 'ill thought out', High Court told in legal challenge",
+      "summary": "Lawyers for Reddit and a digital rights group argued the world-leading policy robbed children of their right to free communication.",
+      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Česko a svět",
+      "published": "2026-11-03T07:53:38+00:00",
+      "score": 11.94952133013889
+    },
+    {
+      "image": "https://images.nintendolife.com/380b5b8df3648/large.jpg",
+      "title": "Review: Marvel's Guardians Of The Galaxy: Encore Edition (Switch 2) - A Bright And Charming Adventure With An Okay Port",
+      "summary": "The cloudy skies have cleared. While cloud streaming has its benefits, nothing beats having a native version of a game. Guardians of the Galaxy launched on the first Nintendo Switch as a Cloud version, and that experience wasn’t really recommended. Now, the game is having an Encore Edition on Switch 2 with an actual po",
+      "link": "https://www.nintendolife.com/reviews/nintendo-switch-2/marvels-guardians-of-the-galaxy-encore-edition",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-02T17:00:00+00:00",
+      "score": 28.226049107916666
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 184
+}
