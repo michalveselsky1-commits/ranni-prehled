@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-04",
+  "updated_at": "2026-11-04T09:13:29.864100+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/7cb213a589318/large.jpg",
+      "title": "The Legend Of Zelda: Ocarina Of Time On Switch 2 Has Been Updated",
+      "summary": "Version 1.1.1 is now live. Some parts of the world are now just hours away from the launch of Zelda: Ocarina of Time remake for Switch 2, and ahead of this, Nintendo has rolled out a new game update. Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-on-switch-2-has-been-updated",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-04T05:55:00+00:00",
+      "score": 31.422926104166667
+    },
+    {
+      "image": null,
+      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing d",
+      "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-11-03T22:04:02+00:00",
+      "score": 23.460564993055556
+    },
+    {
+      "image": null,
+      "title": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
+      "summary": "Cramer said a new group of technology stocks may be emerging as market leaders.",
+      "link": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-03T23:58:09+00:00",
+      "score": 22.936051104166665
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/NTcyZjAzOTFjY2QyMjA4MjILtlh0JYgd1nZQcZkkBx-FKWU42y0C7MLloHTLLphP_y03C0CRhG-a90GdjnbjmW4Mhnj9yqq2z0xpc718u5rDMw7MWZe5N_x411BZatmuDLW-uQVYFsnVW2UBTADnVEuRjG2uteEum5S0aTSv1DuK6209wNEt-epL3kT2h3Q8.JPG?width=360",
+      "title": "Trump protlačil své kandidáty, volby odhalily limity jeho moci, píše Reuters",
+      "summary": "Americký prezident Donald Trump žádal voliče, aby předstírali, že je na kandidátce on sám, a v některých z nejvýznamnějších senátních soubojů v zemi včetně Severní a Jižní Karolíny a Texasu, osobně vybíral republikánské kandidáty, píše agentura Reuters. Američané je však odmítli a demokraté nyní přeberou kontrolu nad S",
+      "link": "https://ct24.ceskatelevize.cz/clanek/svet/trump-protlacil-sve-kandidaty-volby-odhalily-limity-jeho-moci-pise-reuters-379258",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-04T08:08:13+00:00",
+      "score": 11.97799554861111
+    },
+    {
+      "image": "https://images.nintendolife.com/f46b98d752c06/large.jpg",
+      "title": "The First Review For Zelda: Ocarina Of Time Switch 2 Is In",
+      "summary": "Famitsu delivers its final verdict. It's a huge week in gaming with the highly anticipated launch of The Legend of Zelda: Ocarina of Time for the Switch 2. The first review from the famous Japanese outlet Famitsu has now officially gone live. So, what did it think of Nintendo's remake? If you aren't familiar with this ",
+      "link": "https://www.nintendolife.com/news/2026/11/the-first-review-for-zelda-ocarina-of-time-switch-2-is-in",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-04T03:55:00+00:00",
+      "score": 30.922926104166667
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 193
+}
