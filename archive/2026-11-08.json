@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-08",
+  "updated_at": "2026-11-08T08:53:19.095688+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/6ee2920a8b7ff/large.jpg",
+      "title": "Rumour: Data Found In Zelda: Ocarina Of Time May Hint At Master Quest DLC",
+      "summary": "Make it so. One of our main bugbears with Zelda: Ocarina of Time on Switch 2 – as incredible as it is – is that it's overall quite a breezy experience for those already familiar with the original or 3DS release. As such, we thought it might beneficial if Nintendo were to include a more difficult mode, whether it be a s",
+      "link": "https://www.nintendolife.com/news/2026/11/rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-master-quest-dlc",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-07T19:15:00+00:00",
+      "score": 24.84034057722222
+    },
+    {
+      "image": null,
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-11-07T15:43:45+00:00",
+      "score": 21.96013224388889
+    },
+    {
+      "image": null,
+      "title": "Decisive election. Dramatic stock swings. How we handled the market last week",
+      "summary": "On Friday, Jim Cramer revealed his strategy for navigating this new era at the Investing Club's 4th Annual Meeting.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/07/decisive-election-dramatic-stock-swings-how-we-handled-the-market-last-week.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-07T16:31:00+00:00",
+      "score": 21.157007243888888
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+      "title": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Česko a svět",
+      "published": "2026-11-08T07:52:33+00:00",
+      "score": 11.996798910555556
+    },
+    {
+      "image": "https://images.nintendolife.com/a10364492c43f/large.jpg",
+      "title": "Video: Zelda: Ocarina Of Time Side-By-Side Graphics Comparison (Switch 2, 3DS, N64)",
+      "summary": "Take a look. Zelda: Ocarina of Time returned this week on the Switch 2 and it looks better than ever. If you are wondering just much of a facelift it's had since the 2011 outing, and the original N64 hit, you might want to check out this side-by-side comparison video. YouTube channel ElAnalistDeBits has now released a ",
+      "link": "https://www.nintendolife.com/news/2026/11/video-zelda-ocarina-of-time-side-by-side-graphics-comparison-switch-2-3ds-n64",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-08T06:00:00+00:00",
+      "score": 23.52784057722222
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 194
+}
