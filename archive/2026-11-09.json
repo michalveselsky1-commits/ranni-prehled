@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-09",
+  "updated_at": "2026-11-09T09:19:24.547310+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/81067a9c2a4fc/large.jpg",
+      "title": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Place To Start In The Zelda Universe",
+      "summary": "Gather round, Kokiri. If you're in a position where you've never actually played a Zelda game before, Nintendo's Bill Trinen just wants to let you know Ocarina of Time is the \"perfect place\" to start. Although this comment just happens to line up with the arrival of the Switch 2 remake, Nintendo's VP of Player & Produc",
+      "link": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-place-to-start-in-the-zelda-universe",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-08T09:45:00+00:00",
+      "score": 26.356628659027777
+    },
+    {
+      "image": null,
+      "title": "Apple is racing to make Siri more agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusion",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-11-08T19:18:19+00:00",
+      "score": 22.74544810347222
+    },
+    {
+      "image": null,
+      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "summary": "CoreWeave earnings and inflation data will take center stage.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/08/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-08T17:40:15+00:00",
+      "score": 25.33683699236111
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/MDhhNGI5N2JlZjAwNGI0Y3_FD8ffDSMuCdD82oXFFxKR8yjFldt077zcESbxcZoteZJHBJ2oYt185XovCJZlG2z9bD_45nwgqQWmR4y5gwiYRC6ocVPAKkJtELI7ctxg3Mur0sTnz0YSGw8ddxPe84IvLRez80a2NtEvPxfJE1QAIA50K4c-JlJ3arh4rGvz.jpg?width=360",
+      "title": "Hosté Událostí, komentářů týdne probrali americké volby do Kongresu",
+      "summary": "Hosté Událostí, komentářů týdne diskutovali o výsledcích voleb do amerického Kongresu, v nichž demokraté získali většinu v obou komorách, a jejich dopadech na další vládnutí prezidenta Donalda Trumpa. Debata se dále věnovala dění v Poslanecké sněmovně při projednávání zrušení poplatků za Českou televizi a Český rozhlas",
+      "link": "https://ct24.ceskatelevize.cz/clanek/domaci/hoste-udalosti-komentaru-tydne-probrali-americke-volby-do-kongresu-379408",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-09T08:11:04+00:00",
+      "score": 11.965239770138888
+    },
+    {
+      "image": "https://images.nintendolife.com/487bfe794da72/large.jpg",
+      "title": "Guide: Best Zelda Games Of All Time",
+      "summary": "Where does the Ocarina of Time remake rank? You probably haven't heard, but there's a new Zelda game out. Launched last week, in fact. Oh, you have? Well then, you may be wondering where it ranks with all the other Zeldas - and indeed with the other Ocarinas of Time. Wonder no more; we asked Nintendo Life readers for t",
+      "link": "https://www.nintendolife.com/guides/best-zelda-games-of-all-time",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-08T16:00:00+00:00",
+      "score": 23.919128659027777
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 179
+}
