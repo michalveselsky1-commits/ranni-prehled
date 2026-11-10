@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-10",
+  "updated_at": "2026-11-10T09:06:31.713885+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://assetsio.gnwcdn.com/warhammer-40k-dark-heresy_rowA3Iz.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "title": "Anticipated Warhammer 40K tactical RPG Dark Heresy gets a release date",
+      "summary": "Owlcat Games has revealed a release date for its tactical role-playing sequel Warhammer 40,000: Dark Heresy. The game arrives 28th January, 2027 on PC, PlayStation 5 and Xbox Series S/X. A Switch 2 release date will be provided \"at a later date\", a press release says. Read more",
+      "link": "https://www.eurogamer.net/warhammer-40k-dark-heresy-owlcat-crpg",
+      "source": "Eurogamer",
+      "category": "Gaming",
+      "published": "2026-11-09T16:50:00+00:00",
+      "score": 32.18113098020834
+    },
+    {
+      "image": null,
+      "title": "What could China get from Jensen Huang?",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-11-09T23:51:58+00:00",
+      "score": 27.93932542465278
+    },
+    {
+      "image": null,
+      "title": "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
+      "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off.",
+      "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-10T03:58:46+00:00",
+      "score": 23.96765875798611
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Česko a svět",
+      "published": "2026-11-10T07:58:07+00:00",
+      "score": 11.964950424652777
+    },
+    {
+      "image": "https://images.nintendolife.com/bc559475fd236/large.jpg",
+      "title": "Super Mario Party Jamboree Updated For Switch 2 And Switch (Version 2.4.0)",
+      "summary": "The party doesn't stop! If you're a fan of Mario Party, you might be interested to hear, Nintendo has released a new update for Super Mario Party Jamboree today. The main part of this update is that \"GameShare using GameChat\" is now available in the Switch 2 version of the game. This patch ( Version 2.4.0 ) also comes ",
+      "link": "https://www.nintendolife.com/news/2026/11/super-mario-party-jamboree-updated-for-switch-2-and-switch-version-2-4-0",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-10T02:05:00+00:00",
+      "score": 30.493630980208334
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 191
+}
