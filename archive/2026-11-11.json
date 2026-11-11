@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-11",
+  "updated_at": "2026-11-11T09:13:04.885537+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://assetsio.gnwcdn.com/xbox-one-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "title": "Rockstar kills any hopes of streaming GTA 6 from Xbox to PC, but you can stream it to your old Xbox One if you like",
+      "summary": "Rockstar Games has today clarified a few remaining details about Grand Theft Auto 6's framerate target and visual settings on PlayStation 5, PS5 Pro and Xbox Series X/S . And as part of the same announcement , the developer revealed a key detail about the game's cloud streaming options. Read more",
+      "link": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
+      "source": "Eurogamer",
+      "category": "Gaming",
+      "published": "2026-11-10T14:40:10+00:00",
+      "score": 31.612855171041666
+    },
+    {
+      "image": null,
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-11-10T18:49:52+00:00",
+      "score": 26.65327183770833
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Investice",
+      "published": "2026-11-10T17:56:12+00:00",
+      "score": 25.42966072659722
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/MzVjZjY5OTNmYmIxZTNiMyxOtw8qvdIxZ_So7TF89Y09rz9mne7c_XjuPN9F--JxtcVObJmajvg6B9jTURHbU2zYGUphnVuVoTmbk5gr4e698Xb-6qpU9urbXJ04NIsnoXTE9jkN87lpsy4Ghcizhmt2H48RPkPZFT6HE7O_JMqH5z_yGP-DN9J9NIMrSzHp.JPG?width=360",
+      "title": "Pavla rozladila neúčast českých vojáků na cvičení v Polsku",
+      "summary": "Prezident Petr Pavel nepovažuje za šťastnou neúčast tuzemských vojáků na cvičení v Polsku nazvaném Koalicja 26.2. Česko by se mělo účastnit příprav na dobu po konci rusko-ukrajinské války, prohlásila ve středu hlava státu. V rámci dvoutýdenního cvičení armády jedenácti evropských zemí trénují, jak by byly schopné po sk",
+      "link": "https://ct24.ceskatelevize.cz/clanek/domaci/pavla-rozladila-neucast-ceskych-vojaku-na-cviceni-v-polsku-379503",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-11T08:02:01+00:00",
+      "score": 11.953896837708333
+    },
+    {
+      "image": "https://cdn.mos.cms.futurecdn.net/XmgQM2EHqUL9LoTv3eSBMF-1920-80.jpg",
+      "title": "Grand Theft Auto 6 is 'the most pre-ordered' game of all time on both Xbox and PlayStation",
+      "summary": "On PC, however, GTA 6 remains among the least pre-ordered games of all time because, well, you know.",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation/",
+      "source": "PC Gamer",
+      "category": "Gaming",
+      "published": "2026-11-10T17:34:18+00:00",
+      "score": 28.33841072659722
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 202
+}
