@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-12",
+  "updated_at": "2026-11-12T09:15:07.791820+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/6b585f1bee2a5/large.jpg",
+      "title": "Reminder: The Final Kirby Air Riders amiibo Are Now Available",
+      "summary": "The line up is now complete! Since the arrival of Kirby Air Riders on the Switch 2 last year, Nintendo has been releasing amiibo for the game on a regular basis. Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-12T06:45:00+00:00",
+      "score": 31.62445890138889
+    },
+    {
+      "image": null,
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-11-11T19:34:55+00:00",
+      "score": 22.8324450125
+    },
+    {
+      "image": null,
+      "title": "Treasury yields edge higher as investors await fresh inflation and housing data",
+      "summary": "Treasury yields rose as bond markets reopened following Veterans Day.",
+      "link": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-12T07:38:45+00:00",
+      "score": 19.84841723472222
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/YjQ4YzM0OTIzZWFlNjIzNJ9G-YfmjeD59VfRx9RchHy-0OrQueRTZlQMUZLWeFwYHmn3Rv_eDSisM-m2fWemadYCNPi10nKWYsuikoOQyQxzJXeFUrE5NrPXP_DegYt2eRPjRLvrM5uQeEQrWkmKsi80zMOPaBC7KNktQGAHzlU2hqyIn6DEetg_gUJQ6v3k.JPG?width=360",
+      "title": "Egypt měsíce tajně posílá vojáky a stíhačky Saúdům, píše MEE",
+      "summary": "Egypt vyslal do Saúdské Arábie na pomoc při obraně proti útokům hútíů vojáky, stíhačky Rafale, vrtulníky i transportní letouny dlouho předtím, než to v říjnu oficiálně slíbil prezident Abdal Fattáh Sísí a následně vojenskou podporu odsouhlasil parlament. Egyptské vojenské zdroje to sdělily serveru Middle East Eye (MEE)",
+      "link": "https://ct24.ceskatelevize.cz/clanek/svet/egypt-mesice-tajne-posila-vojaky-a-stihacky-saudum-pise-mee-379541",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-12T08:08:35+00:00",
+      "score": 11.972722790277778
+    },
+    {
+      "image": "https://images.nintendolife.com/2865aa5faf6dd/large.jpg",
+      "title": "Random: Yes, Young Link Is Still Quicker When He Rolls About In Ocarina's Remake",
+      "summary": "Every second counts. As many fans begin to wrap up their first play sessions of Zelda: Ocarina of Time on Switch 2, more attention is slowly shifting to the game's speedrunning community. Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/11/random-yes-young-link-is-still-quicker-when-he-rolls-about-in-ocarinas-remake",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-12T05:45:00+00:00",
+      "score": 31.37445890138889
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 203
+}
