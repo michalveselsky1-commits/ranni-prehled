@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-13",
+  "updated_at": "2026-11-13T09:14:21.656738+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/ef2581fe276ed/large.jpg",
+      "title": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\"",
+      "summary": "The team maybe went \"a step too far\", according to the producer. Ocarina of Time's Switch 2 remake isn't really a scary game, but there are still some enemies throughout this adventure that may give players a fright. Perhaps the most notable are ReDead , the zombie-like creatures that are difficult to escape when they ",
+      "link": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-13T04:55:00+00:00",
+      "score": 31.169329393194445
+    },
+    {
+      "image": null,
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-11-12T19:27:45+00:00",
+      "score": 22.80578772652778
+    },
+    {
+      "image": null,
+      "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
+      "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-13T05:51:34+00:00",
+      "score": 24.40502383763889
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/NGNkY2QwZGU2YWRjOTdmZROFEIgiBfpMAe7IkfBlEKfMnZEmOPw0BlRLefG6B-YWo1Fuo1fnrDtMOpqa1HJbu8E62AxwyjQbytX_byaTWDQPXf4s0crDEaD4lB_llIR21gklVRazSNhXphAVSY6Wj14DCPk6-MPKpm6_-Hr5aCanDzXFR9DxMCZtF2E2OkKQ.JPG?width=360",
+      "title": "Microsoft přiznává problémy s řešením výpadků, které postihly jeho služby",
+      "summary": "Americká softwarová společnost Microsoft má problémy při řešení výpadků, se kterými se od čtvrtečního večera potýkají uživatelé její internetové pošty Outlook i dalších služeb. Firma uvedla, že její snahy o odstranění výpadků nepostupují podle očekávání. Dodala, že na nápravě situace dál pracuje.",
+      "link": "https://ct24.ceskatelevize.cz/clanek/svet/microsoft-priznava-problemy-s-resenim-vypadku-ktere-postihly-jeho-sluzby-379576",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-13T06:57:32+00:00",
+      "score": 11.67988494875
+    },
+    {
+      "image": "https://images.nintendolife.com/7bb185c8284db/large.jpg",
+      "title": "Round Up: The Reviews Are In For Metaphor: ReFantazio's Switch 2 Port",
+      "summary": "Here's what the critics think. Metaphor: ReFantazio brings more JRPG action to the Switch 2 this week, and the reviews are now rolling in. Starting with our own here on Nintendo Life, we thought this latest Switch 2 port was an extraodinary experience, but couldn't look past the poor optimisation. Read the full article",
+      "link": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-metaphor-refantazios-switch-2-port",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-13T02:55:00+00:00",
+      "score": 26.669329393194445
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 197
+}
