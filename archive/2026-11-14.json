@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-14",
+  "updated_at": "2026-11-14T08:53:45.793286+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/de0ee2887d85b/large.jpg",
+      "title": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2",
+      "summary": "A second chance to secure a copy. Physical game distributor Limited Run Games is all about \"limited\" releases, but it's making an exception for Lara Croft. Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-14T03:30:00+00:00",
+      "score": 30.90098657736111
+    },
+    {
+      "image": null,
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After a",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-11-13T20:45:10+00:00",
+      "score": 23.214181021805555
+    },
+    {
+      "image": null,
+      "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+      "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-13T22:18:43+00:00",
+      "score": 22.603972688472222
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+      "title": "What we know about the longest ground stop since 9/11",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Česko a svět",
+      "published": "2026-11-14T07:42:11+00:00",
+      "score": 11.95175046625
+    },
+    {
+      "image": "https://images.nintendolife.com/b7bb881087c51/large.jpg",
+      "title": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included",
+      "summary": "Celebrating five years of \"blooming together\". Alongside the release of Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy this week, Nintendo added the mobile soundtrack Pikmin Bloom to its music app. This also happens to line up with the mobile title's fifth anniversary . Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-14T06:00:00+00:00",
+      "score": 27.52598657736111
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 191
+}
