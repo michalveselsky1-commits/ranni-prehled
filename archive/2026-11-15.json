@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-15",
+  "updated_at": "2026-11-15T08:57:58.728018+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/96d300dd2c811/large.jpg",
+      "title": "Minecraft Is Getting Joy-Con Mouse Controls On Switch 2 In A Future Update",
+      "summary": "You can try them out now in the closed beta. If you've read our Minecraft Switch 2 review here on Nintendo Life, you'll know one thing currently missing from this version is mouse mode. Fortunately, an update is already in the works to add Joy-Con 2 mouse controls to this version of the game. These controls can be acce",
+      "link": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-15T06:30:00+00:00",
+      "score": 35.63342166541666
+    },
+    {
+      "image": null,
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-11-14T15:00:00+00:00",
+      "score": 25.758421665416666
+    },
+    {
+      "image": null,
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+      "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-14T15:50:43+00:00",
+      "score": 20.96974110986111
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Česko a svět",
+      "published": "2026-11-15T07:10:31+00:00",
+      "score": 11.80224110986111
+    },
+    {
+      "image": "https://images.nintendolife.com/ed94ce12e7b94/large.jpg",
+      "title": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake",
+      "summary": "Watch out for ReDead. Zelda Notes might not appeal to everyone, but in the Ocarina of Time remake on Switch 2, Nintendo is using it to track global player data. Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/11/zelda-notes-reveals-top-game-over-causes-and-more-global-play-data-in-ocarina-of-time-remake",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-15T07:30:00+00:00",
+      "score": 31.883421665416666
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 192
+}
