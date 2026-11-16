@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-16",
+  "updated_at": "2026-11-16T10:33:03.050189+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/96d300dd2c811/large.jpg",
+      "title": "Minecraft Is Getting Joy-Con Mouse Controls On Switch 2 In A Future Update",
+      "summary": "You can try them out now in the closed beta. If you've read our Minecraft Switch 2 review here on Nintendo Life, you'll know one thing currently missing from this version is mouse mode. Fortunately, an update is already in the works to add Joy-Con 2 mouse controls to this version of the game. These controls can be acce",
+      "link": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-15T06:30:00+00:00",
+      "score": 29.237288181319443
+    },
+    {
+      "image": null,
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-11-15T23:30:00+00:00",
+      "score": 27.487288181319443
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
+      "title": "Investors sue chip giant Intel after 29% stock plunge",
+      "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Investice",
+      "published": "2026-11-16T03:04:01+00:00",
+      "score": 23.379024292430557
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/OTRlZGFjZDk5MmQyNGFlZFBj3k2rr-INX8IceRxKHbEm37sQd_Wznhv8rhaLgjPCFeggtrbmCma30ynaBwK-8Tt2STcnsVyen0C-MHsX3_Jcc2hg9NngEBwON2axnkAYOHLDJs3zHmugqUhhebhh_t3PfBY2WostGS1eypfdGFOzetoSKLkf6foBCpLLRPVm.jpg?width=360",
+      "title": "Česko na majetkových daních vybírá výrazně méně než většina zemí EU, uvádí analýza",
+      "summary": "Česko vybírá na majetkových daních výrazně méně než většina zemí Evropské unie, ušlé příjmy stát kompenzuje vyšším zdaněním zaměstnanců a firem, což poškozuje hospodářský růst země. Vyplývá to z analýzy výzkumné instituce PAQ Research.",
+      "link": "https://ct24.ceskatelevize.cz/clanek/ekonomika/cesko-na-majetkovych-danich-vybira-vyrazne-mene-nez-vetsina-zemi-eu-uvadi-analyza-379652",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-16T09:26:21+00:00",
+      "score": 11.97207984798611
+    },
+    {
+      "image": "https://images.nintendolife.com/ed94ce12e7b94/large.jpg",
+      "title": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake",
+      "summary": "Watch out for ReDead. Zelda Notes might not appeal to everyone, but in the Ocarina of Time remake on Switch 2, Nintendo is using it to track global player data. Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/11/zelda-notes-reveals-top-game-over-causes-and-more-global-play-data-in-ocarina-of-time-remake",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-15T07:30:00+00:00",
+      "score": 25.487288181319443
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 181
+}
