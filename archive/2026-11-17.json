@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-17",
+  "updated_at": "2026-11-17T09:15:25.711603+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/b5746d8268890/large.jpg",
+      "title": "Zelda: Ocarina Of Time Remake Crowned 2026's \"Best-Selling Physical Video Game In The US\"",
+      "summary": "\"After just one week\". The Zelda: Ocarina of Time remake for Switch 2 got off to an outstanding start, selling over five million copies (approx 5.2 million units) in just four days. Sales in the UK and Japan have contributed to this , and now, Circana Retail Tracking Service has shared data about the title's US launch.",
+      "link": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-17T00:55:00+00:00",
+      "score": 26.164881138680556
+    },
+    {
+      "image": null,
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as repor",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-11-16T20:46:01+00:00",
+      "score": 23.127450583125
+    },
+    {
+      "image": null,
+      "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
+      "summary": "Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.",
+      "link": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-16T23:05:12+00:00",
+      "score": 22.707381138680553
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e4/live/526312a0-e258-11f1-8199-439bbe0918ee.jpg",
+      "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+      "summary": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Česko a svět",
+      "published": "2026-11-17T08:06:32+00:00",
+      "score": 11.962936694236111
+    },
+    {
+      "image": "https://images.nintendolife.com/96d300dd2c811/large.jpg",
+      "title": "Minecraft Is Getting Joy-Con Mouse Controls On Switch 2 In A Future Update",
+      "summary": "You can try them out now in the closed beta. If you've read our Minecraft Switch 2 review here on Nintendo Life, you'll know one thing currently missing from this version is mouse mode. Fortunately, an update is already in the works to add Joy-Con 2 mouse controls to this version of the game. These controls can be acce",
+      "link": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-15T06:30:00+00:00",
+      "score": 24.0
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 180
+}
