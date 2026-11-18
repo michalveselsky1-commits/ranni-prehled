@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-18",
+  "updated_at": "2026-11-18T09:12:47.239656+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/59014acf170ca/large.jpg",
+      "title": "GDC Survey Suggests Devs Want To Make Games For Switch 2 More Than PS5 Or Xbox",
+      "summary": "Haw-haw! The GDC Festival of Gaming has published its latest ' State of the Game Industry' report , which is based on a survey of over 2,600 game industry professionals on topics such as AI, layoffs, labour, and more. One particular result caught our eye, and it's regarding which platforms developers are currently inte",
+      "link": "https://www.nintendolife.com/news/2026/11/gdc-survey-suggests-devs-want-to-make-games-for-switch-2-more-than-ps5-or-xbox",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-17T15:45:00+00:00",
+      "score": 35.884219468333335
+    },
+    {
+      "image": null,
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-11-17T23:41:18+00:00",
+      "score": 19.868802801666668
+    },
+    {
+      "image": null,
+      "title": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
+      "summary": "Acting Navy Secretary Hung Cao told senators the Navy recoded and used munitions he called expired as the Iran war strains weapons stocks and naval deployments.",
+      "link": "https://www.cnbc.com/2026/11/18/us-iran-navy-hormuz-war-cao.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-18T07:24:06+00:00",
+      "score": 20.797136135000002
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/MDRhNTQ0MjlmM2ZkNDUwMBXLQXJBU9hIuRwRYiBAyNvCEjZ8KNMAP_z2GXNhFCKeCcy0zLEYBo4m-WmXnimx6dY7RR8iIlxcrxX5q1fGymn-9EDg7FjJyRLgJ0zbwmUrWig6IYX_GgKSfB3W9_SB6h49qZbdSGTcWVxyDYnrxKjjpVMPBBRRtdK-6kmPJNOz.jpg?width=360",
+      "title": "Na Československo před revolucí i po ní vzpomínali i zahraniční novináři",
+      "summary": "Na zásahy bezpečnostních složek proti demonstrantům i na první dojmy z porevoluční Prahy zavzpomínali ve speciálním díle Událostí, komentářů z Národní třídy americký novinář Jolyon Naegele, někdejší zpravodaj Hlasu Ameriky pro střední a východní Evropu, a britský novinář Rob Cameron, který 22 let působil jako pražský z",
+      "link": "https://ct24.ceskatelevize.cz/clanek/domaci/na-ceskoslovensko-pred-revoluci-i-po-ni-vzpominali-i-zahranicni-novinari-379702",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-18T08:10:41+00:00",
+      "score": 11.991233357222223
+    },
+    {
+      "image": "https://images.nintendolife.com/602c3d70c10a5/large.jpg",
+      "title": "Avatar Fighting Game's New Update Improves Performance On Switch 2",
+      "summary": "Fight on! Earlier this year in July, Avatar Legends: The Fighting Game made its debut. While there were some features missing at launch on Nintendo's platforms, the situation has improved over time. This week, the development team has rolled out the \" Patch 4.5 Update \", and it comes with UI and character changes and a",
+      "link": "https://www.nintendolife.com/news/2026/11/avatar-fighting-games-new-update-improves-performance-on-switch-2",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-18T03:55:00+00:00",
+      "score": 30.925886135
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 191
+}
