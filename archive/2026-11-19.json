@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-19",
+  "updated_at": "2026-11-19T09:19:12.177994+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/59014acf170ca/large.jpg",
+      "title": "GDC Survey Suggests Devs Want To Make Games For Switch 2 More Than PS5 Or Xbox",
+      "summary": "Haw-haw! The GDC Festival of Gaming has published its latest ' State of the Game Industry' report , which is based on a survey of over 2,600 game industry professionals on topics such as AI, layoffs, labour, and more. One particular result caught our eye, and it's regarding which platforms developers are currently inte",
+      "link": "https://www.nintendolife.com/news/2026/11/gdc-survey-suggests-devs-want-to-make-games-for-switch-2-more-than-ps5-or-xbox",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-17T15:45:00+00:00",
+      "score": 29.857487639305553
+    },
+    {
+      "image": null,
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-11-18T23:18:35+00:00",
+      "score": 23.747418194861112
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Investice",
+      "published": "2026-11-18T23:42:07+00:00",
+      "score": 26.845473750416666
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/OWJmOWQ3NzhkM2VmNmU1ZiohdcTM1m9TJQcZBKJv72ZzfAuxDZr1iQ_JJ9YA6LW2w8wrvlyVsbbmblwYGH8f1vRZFcErouFy8IxYnFL3Mcr5XWJNYMKaP_-sFdKNqauEsrevnoBZ2UeLlrhvTkAqvUfqCdgXhoSF9sUI-fi-YnM69bUh2SbJSHFxpCDiG56d.jpg?width=360",
+      "title": "Obvodní soud v případu Feri špatně vyhodnotil důkazy, uvedl městský soud",
+      "summary": "Městský soud v Praze vysvětlil, proč v září zrušil osvobozující rozsudek nad exposlancem Dominikem Ferim, který je obžalovaný ze znásilnění tehdy sedmnáctileté dívky. Podle mluvčí soudu Kateřiny Eliášové obvodní soud špatně vyhodnotil důkazy a věc chybně posoudil po právní stránce. Jeho závěr, že nejde o trestný čin, o",
+      "link": "https://ct24.ceskatelevize.cz/clanek/domaci/obvodni-soud-v-pripadu-feri-spatne-vyhodnotil-dukazy-uvedl-mestsky-soud-379748",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-19T08:13:09+00:00",
+      "score": 11.974779305972222
+    },
+    {
+      "image": "https://images.nintendolife.com/758e8b2543372/large.jpg",
+      "title": "8BitDo Reveals Its Own GameCube Controller For Switch 2",
+      "summary": "And it's more affordable than Nintendo's. 8BitDo, known for its work in providing excellent retro-inspired controllers for modern systems, has announced the GC Bluetooth Gamepad to celebrate the GameCube's 25th anniversary. It's currently scheduled to launch on 10th December 2026 . Compatible with Switch, Switch 2, and",
+      "link": "https://www.nintendolife.com/news/2026/11/8bitdo-reveals-its-own-gamecube-controller-for-switch-2",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-18T16:00:00+00:00",
+      "score": 27.919987639305557
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 194
+}
