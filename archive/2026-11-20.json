@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-20",
+  "updated_at": "2026-11-20T09:15:11.978034+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/933155d0dc85a/large.jpg",
+      "title": "Xenoblade Chronicles 3 Version 3.0.0 Is Now Live, Here Are The Patch Notes",
+      "summary": "Get ready for the Switch 2 Edition. Ahead of the launch of Xenoblade Chronicles 3 's Switch 2 Edition on 3rd December 2026 , Nintendo and Monolith Soft have this week rolled out a new game update. This patch officially bumps the title up to Version 3.0.0 . Nothing else is mentioned and it's further noted how \"no change",
+      "link": "https://www.nintendolife.com/news/2026/11/xenoblade-chronicles-3-version-3-0-0-is-now-live-here-are-the-patch-notes",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-20T03:15:00+00:00",
+      "score": 30.74916819208333
+    },
+    {
+      "image": null,
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-11-20T00:56:01+00:00",
+      "score": 24.17007096986111
+    },
+    {
+      "image": null,
+      "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
+      "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+      "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-20T07:23:06+00:00",
+      "score": 24.782918192083333
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+      "title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Česko a svět",
+      "published": "2026-11-20T07:14:46+00:00",
+      "score": 11.748195969861111
+    },
+    {
+      "image": "https://images.nintendolife.com/fa74e264a77de/large.jpg",
+      "title": "Call Of Duty: Modern Warfare 4 Tops \"Best-Selling\" Games In October (US)",
+      "summary": "CoD has dominated for 19 consecutive years in its debut month. October was another action-packed month for 2026, with Call of Duty: Modern Warfare 4 dropping on Switch 2, and other titles such as Nintendo Switch Sports Resort & Final Fantasy Resonance also releasing. Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/11/call-of-duty-modern-warfare-4-tops-best-selling-games-in-october-us",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-20T01:30:00+00:00",
+      "score": 30.31166819208333
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 202
+}
