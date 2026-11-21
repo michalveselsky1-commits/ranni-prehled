@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-21",
+  "updated_at": "2026-11-21T09:06:02.425038+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/3768f6736f5ca/large.jpg",
+      "title": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+      "summary": "Update: It's now \"estimated\" to release later this month. : Telltale Games has announced the Nintendo Switch version of The Wolf Among Us Remastered \"needs a little bit more time\". In an official statement shared on social media , it mentions how this remaster starring Sheriff Bigby Wolf will \"launch as planned on Octo",
+      "link": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-21T03:30:00+00:00",
+      "score": 30.849831594583335
+    },
+    {
+      "image": null,
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-11-20T20:58:29+00:00",
+      "score": 23.21851215013889
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Investice",
+      "published": "2026-11-20T22:42:47+00:00",
+      "score": 26.65309548347222
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/NGViMTY0OTE4YTFjODMzOCrOD5ewvev7uF8tFXNoFuLuKoOgenixdlO5YhjMpBZZzB9ao2QWH-aiKsoc3jUHaJw05GiSaIBFM2tMjRFnATSEuit4rxCE3vRCv0PAC9B2JRCBBQcj8Jxg-W34PpRFPvPBzi6hcmPgiuI5YkZirORWMqqNTVCW-6ZEuuvIjewV.jpg?width=360",
+      "title": "Ruský útok na Kryvyj Rih zabil dítě a zdravotnici, zraněných jsou desítky",
+      "summary": "Ruská armáda podnikla v pátek večer raketový a dronový útok na Kryvyj Rih na jihovýchodě Ukrajiny. Zemřela dvacetiletá zdravotnická záchranářka a sedmileté dítě. Zraněných je 58 lidí, včetně šesti dětí, oznámil ráno šéf městské správy Dněpropetrovské oblasti Oleksandr Vilkul. Rusové v noci udeřili také na Kyjev, Charko",
+      "link": "https://ct24.ceskatelevize.cz/clanek/svet/rusky-utok-na-kryvyj-rih-zabil-dite-a-zdravotnici-zranenych-jsou-desitky-379810",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-21T07:38:48+00:00",
+      "score": 11.88649826125
+    },
+    {
+      "image": "https://images.nintendolife.com/dcf51d099b468/large.jpg",
+      "title": "Pokémon-Like Temtem's Bullet Heaven Spin-Off Arrives On Switch Next Year",
+      "summary": "Sweet Temtemptations. Crema Games' Temtem was one of the better Pokémon-likes we had played when it arrived on Switch back in 2022. The dev released its final update a couple of years back, but soon, we'll get a chance to play its Survivors-style spinoff. Temtem: Swarm launches on Switch on 21st January 2027 after comi",
+      "link": "https://www.nintendolife.com/news/2026/11/pokemon-like-temtems-bullet-heaven-spin-off-arrives-on-switch-next-year",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-20T14:45:00+00:00",
+      "score": 27.662331594583335
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 202
+}
