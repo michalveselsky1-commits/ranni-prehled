@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-22",
+  "updated_at": "2026-11-22T09:07:03.515554+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/8eedb914f197b/large.jpg",
+      "title": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
+      "summary": "The producer's pick 'Pangoro' missed out. Famous Japanese game director and producer Katsuhiro Harada, known for the Bandai Namco series Tekken , has revealed a Pokémon he wanted to add to the Pokémon fighting game Pokken Tournament but it didn't make the cut. Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-22T07:00:00+00:00",
+      "score": 31.720589197638887
+    },
+    {
+      "image": null,
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-11-21T21:37:10+00:00",
+      "score": 23.37545030875
+    },
+    {
+      "image": null,
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+      "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-21T16:40:05+00:00",
+      "score": 21.137603086527776
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/MzA5YmM4YTU2YmYwMDJiNwHMhV6f0jmVQj07pwFZQrvd2rM793Ohm0p_bHv3lmrtqcWAwv7h9sZnH36udixRCTMTsfLNs7V1PuL1l3ce9BG8ekfi32490uLV1dnmB3A0KbnfVvJlUoTRUq9lLN2lquggyTHV3vti2JHzG-qkM32ND3-rkUGefGH_n_Q95P6o.JPG?width=360",
+      "title": "Kaliningradská oblast zřejmě čelila útoku, Litva vinu odmítá",
+      "summary": "Ruská Kaliningradská oblast čelila podle severu Ukrajinská pravda možným dronovým náletům. Tamní úřady uvedly, že systém reagoval na podezřelý objekt přilétající od Litvy, po prověření ale oznámily, že nebezpečí pominulo. Monitorovací kanály mezitím informovaly o explozích a činnosti protivzdušné obrany v přístavním mě",
+      "link": "https://ct24.ceskatelevize.cz/clanek/svet/kaliningradska-oblast-zrejme-celila-utoku-litva-vinu-odmita-379829",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-22T08:05:05+00:00",
+      "score": 11.991769753194445
+    },
+    {
+      "image": "https://images.nintendolife.com/3768f6736f5ca/large.jpg",
+      "title": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+      "summary": "Update: It's now \"estimated\" to release later this month. : Telltale Games has announced the Nintendo Switch version of The Wolf Among Us Remastered \"needs a little bit more time\". In an official statement shared on social media , it mentions how this remaster starring Sheriff Bigby Wolf will \"launch as planned on Octo",
+      "link": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-21T03:30:00+00:00",
+      "score": 24.845589197638887
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 196
+}
