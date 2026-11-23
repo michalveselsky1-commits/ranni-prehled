@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-23",
+  "updated_at": "2026-11-23T09:28:57.641999+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/8eedb914f197b/large.jpg",
+      "title": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
+      "summary": "The producer's pick 'Pangoro' missed out. Famous Japanese game director and producer Katsuhiro Harada, known for the Bandai Namco series Tekken , has revealed a Pokémon he wanted to add to the Pokémon fighting game Pokken Tournament but it didn't make the cut. Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-22T07:00:00+00:00",
+      "score": 25.62933041673611
+    },
+    {
+      "image": null,
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-11-22T21:14:07+00:00",
+      "score": 23.188149861180555
+    },
+    {
+      "image": null,
+      "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
+      "summary": "Market regulators in South Korea, China and Taiwan have introduced new measures to support markets.",
+      "link": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-23T06:50:48+00:00",
+      "score": 24.590997083402776
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/N2M5YWMyYzJlNmVkODdjYn0HoeEcJgjAi-vCNfM4VmHQpOMfuvbW_V2JlVUo9ZFoyEXP09LTi9OqCf8J3TTSkZc2uivXOuIVO-9uVUaCm6Cdxw2HR9A7uz8kK8A-FXk6ArBp_NNZOKHqdRLuKKiN3tPDIwbBntdKj2b8VbV84Q3UqSRs8DnIZrZKpaLUBbJz.jpg?width=360",
+      "title": "Hosté Událostí, komentářů týdne probrali i setkání lídrů USA, Číny a Ruska",
+      "summary": "Hosté Událostí, komentářů týdne diskutovali o jednání prezidenta USA Donalda Trumpa, čínského vládce Si Ťin-pchinga a ruského vůdce Vladimira Putina v Šen-čenu. Probrali také oslavy svátku 17. listopadu ve stínu předcházející demonstrace spolku Milion chvilek na pražské Letné. Hovořili i o zjištění Reportérů ČT, kteří ",
+      "link": "https://ct24.ceskatelevize.cz/clanek/domaci/hoste-udalosti-komentaru-tydne-probrali-i-setkani-lidru-usa-ciny-a-ruska-379847",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-23T08:18:40+00:00",
+      "score": 11.95710819451389
+    },
+    {
+      "image": "https://assetsio.gnwcdn.com/gta-6-rockstar-art-jason-and-lucia-sitting-together.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "title": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
+      "summary": "A Grand Theft Auto 6 player says they've been hit with a 30-day PlayStation Network social features ban after sending a friend a photo they took in the game's nudist resort. Read more",
+      "link": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+      "source": "Eurogamer",
+      "category": "Gaming",
+      "published": "2026-11-22T11:22:10+00:00",
+      "score": 22.721691527847224
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 183
+}
