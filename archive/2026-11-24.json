@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-24",
+  "updated_at": "2026-11-24T09:24:58.784831+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://assetsio.gnwcdn.com/GTA-6-vignette.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "title": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
+      "summary": "Rockstar just issued a new patch for GTA 6 on PlayStation 5 and Xbox Series X/S, targeting a few issues players have been reporting since the game launched last Thursday (19th November). Read more",
+      "link": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette",
+      "source": "Eurogamer",
+      "category": "Gaming",
+      "published": "2026-11-23T15:22:30+00:00",
+      "score": 31.739667720069445
+    },
+    {
+      "image": null,
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-11-23T17:14:23+00:00",
+      "score": 26.205848275625
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Investice",
+      "published": "2026-11-23T21:23:42+00:00",
+      "score": 30.244667720069444
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/OTUzNzIxM2IwMDIyYjRhM6gbolFpnZxQUIQswNsOkYavT7U2H9oH-xG55jCRJd0zIgjOtYxP5g-WTd2Ez-xiXtA9TN99J2uPmg9YoBAccEUvwMOvGgrcrcxbxeHwaGjOt0fFsnBt3WI_eqeu3ir3ZSyJ9ZnveAV9AnNiMWg3L1qTeOmbpW0vP1uzzDSwFV_s.jpg?width=360",
+      "title": "Na přihlášky na konzervatoře zbývá týden. Některé hlásí méně uchazečů",
+      "summary": "Zájemci o studium na konzervatořích mají poslední týden na podání přihlášek. Ministerstvo školství letos přesunulo termín z února na konec listopadu a vrátilo se tak k systému, který platil před třemi lety. Některé školy zatím evidují přibližně polovinu obvyklého počtu přihlášek. Přihlášky na ostatní obory středních šk",
+      "link": "https://ct24.ceskatelevize.cz/clanek/domaci/na-prihlasky-na-konzervatore-zbyva-tyden-nektere-hlasi-mene-uchazecu-379877",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-24T08:12:39+00:00",
+      "score": 11.948626053402778
+    },
+    {
+      "image": "https://images.nintendolife.com/03f8d03ac15d5/large.jpg",
+      "title": "Pikmin 4 Switch 2 Edition + Dandori Academy X Tetris 99 Event Announced, Unlock A Special Theme",
+      "summary": "Dropping later this week. Nintendo has announced a Pikmin 4 Switch 2 Edition + Dandori Academy crossover for its addictive online battle royale game Tetris 99 . It's taking place between 26th November 2026 and 30th November 2026 . During this time, you'll be able to unlock a special theme when you earn 100 event points",
+      "link": "https://www.nintendolife.com/news/2026/11/pikmin-4-switch-2-edition-plus-dandori-academy-x-tetris-99-event-announced-unlock-a-special-theme",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-24T04:05:00+00:00",
+      "score": 30.916751053402777
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 189
+}
