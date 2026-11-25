@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-25",
+  "updated_at": "2026-11-25T09:29:05.442830+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/950a56c568e45/large.jpg",
+      "title": "Tiny Bookshop Sells 1 Million Copies, New DLC Expansion Announced",
+      "summary": "Launching next month. Tiny Bookshop , the charming indie title in which you take on the role of bookseller in a quaint seaside resort, has officially sold surpassed 1 million copies sold across PC, Switch, PS5, Xbox, iOS, and Android since its launch in August 2025. To celebrate, publisher Skystone Games and developer ",
+      "link": "https://www.nintendolife.com/news/2026/11/tiny-bookshop-sells-1-million-copies-new-dlc-expansion-announced",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-24T11:00:00+00:00",
+      "score": 30.628788692361113
+    },
+    {
+      "image": null,
+      "title": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-11-24T21:33:29+00:00",
+      "score": 19.268302581249998
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Investice",
+      "published": "2026-11-23T21:23:42+00:00",
+      "score": 24.22753869236111
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/YTMwNzJkZTYxMjQ3YzIzNDQf69PcAFb382yDGQjjgaz3dK9cy7R5iXDQvhklMDkaftjLSBxZyQICh_FI-62noZX-CEm5jhGxLvtbaQRb5fdX6fQhOIOSEXPRbwsyG-wQEwinshrlrytm_77pQ_nUUUS-qt0VY-bB-z7TDwSBTfvXfv3gmnplMp0nCLD4FXR9.JPG?width=360",
+      "title": "Sílí napětí kvůli neshodám o podobě budoucího rozpočtu EU, výtky má i Česko",
+      "summary": "Mimořádný summit Evropské unie v Bruselu by měl na konci pracovního týdne schválit klíčové kontury víceletého rozpočtu. Podle předsedy Evropské rady Antónia Costy „nastal čas na dohodu“, jak uvedl v dopise adresovaném lídrům členských zemí. Dohodu ovšem může zkomplikovat spor o finanční podporu Ukrajině. Česko a další ",
+      "link": "https://ct24.ceskatelevize.cz/clanek/svet/sili-napeti-kvuli-neshodam-o-podobe-budouciho-rozpoctu-eu-vytky-ma-i-cesko-379926",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-25T07:54:51+00:00",
+      "score": 11.857330359027777
+    },
+    {
+      "image": "https://assetsio.gnwcdn.com/border-switch.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "title": "Today's Nintendo Switch Online update finally introduces a feature players have been asking for since 2018",
+      "summary": "There's been an exciting addition to the Nintendo Classics GameCube app today, as users have discovered a small - but oft-requested - change in the software's Version 2.2.0. Read more",
+      "link": "https://www.eurogamer.net/nintendo-switch-update-version-2-2-0-borders",
+      "source": "Eurogamer",
+      "category": "Gaming",
+      "published": "2026-11-24T14:02:00+00:00",
+      "score": 27.387122025694445
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 196
+}
