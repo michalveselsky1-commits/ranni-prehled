@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-26",
+  "updated_at": "2026-11-26T09:26:55.107751+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/969f77044296e/large.jpg",
+      "title": "Video: Xenoblade Chronicles 3 - Switch 2 Edition Overview Trailer Showcases New Features & Enhancements",
+      "summary": "Here's what you can expect from this upgrade. Following a game update last week, preparing for the release of Xenoblade Chronicles 3 - Switch 2 Edition , Nintendo has now released a new overview trailer for this version of the game. It once again goes through all the features and enhancements that will be available in ",
+      "link": "https://www.nintendolife.com/news/2026/11/video-xenoblade-chronicles-3-switch-2-edition-overview-trailer-showcases-new-features-and-enhancements",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-26T02:05:00+00:00",
+      "score": 30.408673072847222
+    },
+    {
+      "image": null,
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first app",
+      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-11-25T17:44:51+00:00",
+      "score": 26.324714739513887
+    },
+    {
+      "image": null,
+      "title": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
+      "summary": "Goldman Sachs Alternatives' inaugural survey of high-net-worth investors found they're increasingly looking to alternatives amid turbulent markets.",
+      "link": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-26T07:23:42+00:00",
+      "score": 24.73658973951389
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/OGUzOWIyYzZjMmJhYTkwMEGDeDq2s_CQvXxxa12ow6RtxTazijlaQ3f9fR24nxRSqmSangNXyuKYhRM6bQUd4QmgP6VgS7B9s8vShOORVryjDka8B9SYuUql7HN5YVV4lwtcKVvbEJSVFLIVIIwFlJF-taoNfhUNEumzefZzvqIDaezj63wW0VfjtEIyXTgU.png?width=360",
+      "title": "Poslanci by se měli zabývat platformovou prací a podporami v nezaměstnanosti",
+      "summary": "Poslanci by se ve čtvrtek měli dál zabývat navrhovaným zákonem o platformové práci. Ve druhém čtení je také související vládní novela zákoníku práce se sporným snížením podpor v nezaměstnanosti po jejich nedávném zvýšení. Poslanci se budou věnovat pravidelným interpelacím na členy vlády a zřejmě také schvalování plánu ",
+      "link": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-by-se-meli-zabyvat-platformovou-praci-a-podporami-v-nezamestnanosti-379965",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-26T08:00:54+00:00",
+      "score": 11.891589739513888
+    },
+    {
+      "image": "https://assetsio.gnwcdn.com/GTA_6_Mission_List_4.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "title": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5",
+      "summary": "If you don't own a PlayStation 5 Pro , the best way to play Grand Theft Auto 6 is reportedly on Xbox Series X. That's according to new performance analysis, which shows Microsoft's console is more consistent at maintaining the game's 30fps frame-rate target than the base PS5. Read more",
+      "link": "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
+      "source": "Eurogamer",
+      "category": "Gaming",
+      "published": "2026-11-25T09:15:10+00:00",
+      "score": 30.201034183958335
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 195
+}
