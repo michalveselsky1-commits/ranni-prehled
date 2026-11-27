@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-27",
+  "updated_at": "2026-11-27T18:16:41.090842+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/44b2b1eff4f0d/large.jpg",
+      "title": "Splatoon 3 Version 12.0.1 Update Out Now, Here Are The Patch Notes",
+      "summary": "Includes a fix for Anarchy Battle. Last week, Nintendo released a major update for its team-based squid-shooter Splatoon 3 , bumping the game up to Version 12.0.0 . It included changes to multiplayer, weapons adjustments, changes to Anarchy Battle, and even a change to the GameChat feature on Switch 2. Now, following t",
+      "link": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-1-update-out-now-here-are-the-patch-notes",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-27T01:05:00+00:00",
+      "score": 27.95131313597222
+    },
+    {
+      "image": null,
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge",
+      "category": "Technologie",
+      "published": "2026-11-27T14:00:00+00:00",
+      "score": 25.18047980263889
+    },
+    {
+      "image": null,
+      "title": "Top 10 things to watch in the stock market on Black Friday",
+      "summary": "Stocks are on pace for a record Black Friday as Anthropic tries to regain its IPO price.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-27T15:08:31+00:00",
+      "score": 24.46596591375
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/MjNiZDY5MzJjZDBmNjMwMwSiEMJrug0-vQR4-hbecf-O-rUAZqCC3K4OLZSuv4V2UGQJTow1UdVweM5VGsXIoK22hfTDnvgl655_8dbYeP3N94RiQ57dQ9zf3TssxOkVNCjoPg_dk4t6w5kvkIf6sibVfjxInuR16p5NUVztsccbxk-ySW3m8-ZjVWcGkO6C.jpg?width=360",
+      "title": "V Irsku zaznívají výzvy k regulaci technologií zprostředkujících sexuální násilí",
+      "summary": "Na konferenci pořádané v rámci irského předsednictví EU zazněly výzvy k přísnější regulaci technologických společností s cílem řešit sexuální násilí zprostředkované technologiemi.",
+      "link": "https://ct24.ceskatelevize.cz/clanek/svet/v-irsku-zaznivaji-vyzvy-k-regulaci-technologii-zprostredkujicich-sexualni-nasili-380015",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-27T16:58:00+00:00",
+      "score": 11.922146469305556
+    },
+    {
+      "image": "https://images.nintendolife.com/b71d6588f7076/large.jpg",
+      "title": "Hollow Knight: Silksong - Sea Of Sorrow DLC Finally Has A Release Date",
+      "summary": "The game's first free expansion. We had our fingers crossed that Team Cherry might reveal the release date for Hollow Knight: Silksong 's first DLC in its special presentation today , and what do you know, it did! Sea of Sorrow will officially launch on Switch and Switch 2 on 11th December . This is a free expansion , ",
+      "link": "https://www.nintendolife.com/news/2026/11/hollow-knight-silksong-sea-of-sorrow-dlc-finally-has-a-release-date",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-27T15:13:00+00:00",
+      "score": 27.484646469305556
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 201
+}
