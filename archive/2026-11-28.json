@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-28",
+  "updated_at": "2026-11-28T16:58:42.161741+01:00",
+  "timezone": "Europe/Prague",
+  "method": "Automatický výběr z RSS; souhrny pocházejí ze zdrojových kanálů.",
+  "articles": [
+    {
+      "image": "https://images.nintendolife.com/44b2b1eff4f0d/large.jpg",
+      "title": "Splatoon 3 Version 12.0.1 Update Out Now, Here Are The Patch Notes",
+      "summary": "Includes a fix for Anarchy Battle. Last week, Nintendo released a major update for its team-based squid-shooter Splatoon 3 , bumping the game up to Version 12.0.0 . It included changes to multiplayer, weapons adjustments, changes to Anarchy Battle, and even a change to the GameChat feature on Switch 2. Now, following t",
+      "link": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-1-update-out-now-here-are-the-patch-notes",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-28T00:30:00+00:00",
+      "score": 28.13040543465278
+    },
+    {
+      "image": null,
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "source": "TechCrunch",
+      "category": "Technologie",
+      "published": "2026-11-28T14:00:00+00:00",
+      "score": 21.50540543465278
+    },
+    {
+      "image": null,
+      "title": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
+      "summary": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
+      "link": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
+      "source": "CNBC",
+      "category": "Investice",
+      "published": "2026-11-28T06:00:01+00:00",
+      "score": 22.50547487909722
+    },
+    {
+      "image": "https://fs2-ct24.ceskatelevize.cz/image/OGVkMDAxODBmNDFhNWFlNQY5avovNw-w85__OrGDvhqKDKaI5eHRO5a3CWnYTIvdiQQXAyc3WosLQcrz0FRWP0xaUMA3zMJ5BdjHkdBan7EBMOQpJD8ewP1S7AqfER7lEkGgzGQa_yi7cGaCMbYiWowmp2AXPFqpd1OFgj-XyW9MMxN0Ch2EVynOKXfY2MjI.JPG?width=360",
+      "title": "Demonstranti v Albánii zasypali kameny jednu z vládních budov",
+      "summary": "V Albánii pokračují protivládní protesty, a to i v den, kdy země slaví výročí nezávislosti. Sobotní demonstraci v hlavním městě Tiraně doprovodily násilnosti. Demonstranti házeli kameny a zápalné lahve na policisty, ti použili vodní děla, slzný plyn a gumové projektily, píše agentura Reuters.",
+      "link": "https://ct24.ceskatelevize.cz/clanek/svet/demonstranti-v-albanii-zasypali-kameny-jednu-z-vladnich-budov-380035",
+      "source": "ČT24",
+      "category": "Česko a svět",
+      "published": "2026-11-28T15:53:00+00:00",
+      "score": 11.97623876798611
+    },
+    {
+      "image": "https://images.nintendolife.com/d8c9d31541851/large.jpg",
+      "title": "Tomodachi Life: Living The Dream Soundtrack Added To Nintendo Music, Here's Every Song Included",
+      "summary": "Living the dream. Nintendo has this week updated its Nintendo Music app with the Tomodachi Life: Living the Dream soundtrack. It adds 141 tracks and has a run time of 3 hours and 39 minutes. Toru Minegishi was the sound director on this project (known for his previous work on Zelda , Splatoon , Pokémon and the Mario se",
+      "link": "https://www.nintendolife.com/news/2026/11/tomodachi-life-living-the-dream-soundtrack-added-to-nintendo-music-heres-every-song-included",
+      "source": "Nintendo Life",
+      "category": "Gaming",
+      "published": "2026-11-28T02:05:00+00:00",
+      "score": 24.52623876798611
+    }
+  ],
+  "source_count": 9,
+  "feed_items": 197
+}
